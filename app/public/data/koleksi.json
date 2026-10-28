@@ -1,91 +1,91 @@
 [
   {
     "id": "1",
-    "judul": "Aplikasi Kasir Sederhana",
+    "judul": "Tugas 2 Pra Kaderisasi",
     "kategori": "Web",
-    "teknologi": "Laravel",
-    "tahun": 2024,
-    "tautan": "nzwansyifaa"
+    "teknologi": "HTML, CSS",
+    "tahun": 2025,
+    "tautan": "https://github.com/nzwansyifaa/Tugas-2-Pra-Kaderisasi"
   },
   
   {
     "id": "2",
-    "judul": "Aplikasi Todo List",
+    "judul": "Tugas 2 PAW",
     "kategori": "Web",
-    "teknologi": "React",
-    "tahun": 2024,
-    "tautan": ""
+    "teknologi": "HTML",
+    "tahun": 2026,
+    "tautan": "https://github.com/nzwansyifaa/pemweb"
   },
 
   {
     "id": "3",
-    "judul": "Aplikasi Blog",
+    "judul": "Praktikum PAW",
     "kategori": "Web",
-    "teknologi": "Vue.js",
-    "tahun": 2024,
-    "tautan": ""
+    "teknologi": "JavaScript, CSS, HTML",
+    "tahun": 2026,
+    "tautan": "https://github.com/nzwansyifaa/pemrograman_web_itera_124140169"
   },
 
   {
     "id": "4",
-    "judul": "Aplikasi E-Commerce",
+    "judul": "Tugas 3 PAW",
     "kategori": "Web",
-    "teknologi": "Node.js",
-    "tahun": 2024,
-    "tautan": ""
+    "teknologi": "HTML, CSS",
+    "tahun": 2026,
+    "tautan": "https://github.com/nzwansyifaa/task_3"
   },
 
   {
     "id": "5",
     "judul": "Aplikasi Perpustakaan",
     "kategori": "Web",
-    "teknologi": "Angular",
+    "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": ""
+    "tautan": "https://github.com/nzwansyifaa"
   },
 
   {
     "id": "6",
-    "judul": "",
-    "kategori": "",
-    "teknologi": "",
+    "judul": "Sistem Kasir Sederhana",
+    "kategori": "Web",
+    "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": ""
+    "tautan": "https://github.com/nzwansyifaa"
   },
 
   {
     "id": "7",
-    "judul": "",
-    "kategori": "",
-    "teknologi": "",
+    "judul": "Sistem Todo List",
+    "kategori": "Web",
+    "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": ""
+    "tautan": "https://github.com/nzwansyifaa"
   },
 
   {
     "id": "8",
-    "judul": "",
-    "kategori": "",
-    "teknologi": "",
+    "judul": "Aplikasi Blog",
+    "kategori": "Web",
+    "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": ""
+    "tautan": "https://github.com/nzwansyifaa"
   },
 
   {
     "id": "9",
-    "judul": "",
-    "kategori": "",
-    "teknologi": "",
+    "judul": "Aplikasi E-commerce",
+    "kategori": "Web",
+    "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": ""
+    "tautan": "https://github.com/nzwansyifaa"
   },
 
   {
     "id": "10",
-    "judul": "",
-    "kategori": "",
-    "teknologi": "",
+    "judul": "Sistem Rak Buku Pribadi",
+    "kategori": "Web",
+    "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": ""
+    "tautan": "https://github.com/nzwansyifaa/pemrograman_web_itera_124140169"
   }
 ]

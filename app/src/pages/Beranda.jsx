@@ -14,10 +14,10 @@ export default function Beranda() {
         <p>Memuat ringkasan...</p>
       ) : (
         <p>
-          Ada {items.length} tugas dalam {jumlahKategori} kategori.
+          Ada {items.length} proyek dalam {jumlahKategori} kategori.
         </p>
       )}
-      <Link to="/koleksi">Lihat semua tugas</Link>
+      <Link to="/koleksi">Lihat semua proyek</Link>
     </section>
   )
 }

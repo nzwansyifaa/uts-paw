@@ -1,10 +1,91 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Aplikasi Kasir Sederhana",
+    "kategori": "Web",
+    "teknologi": "Laravel",
+    "tahun": 2024,
+    "tautan": "nzwansyifaa"
+  },
+  
+  {
+    "id": "2",
+    "judul": "Aplikasi Todo List",
+    "kategori": "Web",
+    "teknologi": "React",
+    "tahun": 2024,
+    "tautan": ""
+  },
+
+  {
+    "id": "3",
+    "judul": "Aplikasi Blog",
+    "kategori": "Web",
+    "teknologi": "Vue.js",
+    "tahun": 2024,
+    "tautan": ""
+  },
+
+  {
+    "id": "4",
+    "judul": "Aplikasi E-Commerce",
+    "kategori": "Web",
+    "teknologi": "Node.js",
+    "tahun": 2024,
+    "tautan": ""
+  },
+
+  {
+    "id": "5",
+    "judul": "Aplikasi Perpustakaan",
+    "kategori": "Web",
+    "teknologi": "Angular",
+    "tahun": 2024,
+    "tautan": ""
+  },
+
+  {
+    "id": "6",
+    "judul": "",
+    "kategori": "",
+    "teknologi": "",
+    "tahun": 2024,
+    "tautan": ""
+  },
+
+  {
+    "id": "7",
+    "judul": "",
+    "kategori": "",
+    "teknologi": "",
+    "tahun": 2024,
+    "tautan": ""
+  },
+
+  {
+    "id": "8",
+    "judul": "",
+    "kategori": "",
+    "teknologi": "",
+    "tahun": 2024,
+    "tautan": ""
+  },
+
+  {
+    "id": "9",
+    "judul": "",
+    "kategori": "",
+    "teknologi": "",
+    "tahun": 2024,
+    "tautan": ""
+  },
+
+  {
+    "id": "10",
+    "judul": "",
+    "kategori": "",
+    "teknologi": "",
+    "tahun": 2024,
+    "tautan": ""
   }
 ]

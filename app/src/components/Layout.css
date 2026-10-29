@@ -16,6 +16,28 @@
   gap: 1rem;
 }
 
+#navbar {
+  background-color: #78A1BB;
+  border-bottom: 5px solid #dcdcdc;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.kepala a {
+  text-decoration: none;
+  color: #000000;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+}
+
+.kepala a:hover {
+  background: #EBF5EE;
+}
+
+.kepala a.active {
+  background: #EBF5EE;
+}
+
 .menu a.active {
   font-weight: 600;
 }
@@ -31,8 +53,14 @@
 .kaki {
   padding: 1rem 1.5rem;
   border-top: 1px solid #dcdcdc;
-  color: #57606a;
+  color: #43444C;
   font-size: 0.9rem;
+}
+
+#footer {
+  background-color: #78A1BB;
+  border-top: 5px solid #dcdcdc;
+  border-radius: 10px 10px 0px 0px;
 }
 
 .aksi {

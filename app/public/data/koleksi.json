@@ -38,10 +38,10 @@
   {
     "id": "5",
     "judul": "Aplikasi Perpustakaan",
-    "kategori": "Web",
+    "kategori": "Aplikasi",
     "teknologi": "HTML, CSS",
-    "tahun": 2024,
-    "tautan": "https://github.com/nzwansyifaa"
+    "tahun": 2025,
+    "tautan": "https://github.com/nzwansyifaa/library_app"
   },
 
   {
@@ -50,7 +50,7 @@
     "kategori": "Web",
     "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": "https://github.com/nzwansyifaa"
+    "tautan": "https://github.com/nzwansyifaa/cashier"
   },
 
   {
@@ -59,25 +59,25 @@
     "kategori": "Web",
     "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": "https://github.com/nzwansyifaa"
+    "tautan": "https://github.com/nzwansyifaa/todo_system"
   },
 
   {
     "id": "8",
     "judul": "Aplikasi Blog",
-    "kategori": "Web",
+    "kategori": "Aplikasi",
     "teknologi": "HTML, CSS",
-    "tahun": 2024,
-    "tautan": "https://github.com/nzwansyifaa"
+    "tahun": 2026,
+    "tautan": "https://github.com/nzwansyifaa/blog_app"
   },
 
   {
     "id": "9",
     "judul": "Aplikasi E-commerce",
-    "kategori": "Web",
+    "kategori": "Aplikasi",
     "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": "https://github.com/nzwansyifaa"
+    "tautan": "https://github.com/nzwansyifaa/ecommerce_app"
   },
 
   {
@@ -86,6 +86,6 @@
     "kategori": "Web",
     "teknologi": "HTML, CSS",
     "tahun": 2024,
-    "tautan": "https://github.com/nzwansyifaa/pemrograman_web_itera_124140169"
+    "tautan": "https://github.com/nzwansyifaa/personal_bookshelf"
   }
 ]

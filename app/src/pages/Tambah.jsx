@@ -35,13 +35,14 @@ export default function Tambah() {
       <select id="kategori" name="kategori" value={form.kategori} onChange={ubah}>
         <option>Web</option>
         <option>Aplikasi</option>
+        <option>Desain</option>
       </select>
 
       <label htmlFor="teknologi">Teknologi</label>
       <input id="teknologi" name="teknologi" value={form.teknologi} onChange={ubah} />
 
       <label htmlFor="tahun">Tahun</label>
-      <select id="tahun" name="tahun" value={form.tahun} onChange={ubah}>
+      <select id="tahun" name="tahun" type="number" value={form.tahun} onChange={ubah}>
         <option value="2024">2024</option>
         <option value="2025">2025</option>
         <option value="2026">2026</option>

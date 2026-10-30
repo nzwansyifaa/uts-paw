@@ -85,15 +85,24 @@
 }
 
 .daftar-kartu {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: flex;
+  flex-direction: column;
   gap: 1rem;
+}
+
+.daftar-kartu a {
+  text-decoration: none;
+  color: #000000;
 }
 
 .kartu {
   padding: 1rem;
   border: 1px solid #dcdcdc;
-  border-radius: 8px;
+  border-radius: 10px;
+}
+
+#kartu:hover {
+  background: #dcdcdc;
 }
 
 .kartu h3 {

@@ -75,7 +75,11 @@ Deployment: https://nzwansyifaa.github.io/uts-paw/
 
 ## Fitur
 
-- ...
+- Menambahkan proyek
+- Mencari proyek sesuai judul
+- Filter proyek sesuai kategori
+- Menghapus proyek
+- Statistik sesuai kategori
 
 ## Menjalankan secara lokal
 
@@ -85,5 +89,10 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
+- useState di Tambah.jsx
+- useEffect di KoleksiProvider.jsx
+- Context API di useKoleksi
+- custom hook di useLocalStorage dan useKoleksi
+- NavLink di Layout.jsx
+- useNavigate di Tambah.jsx
 ```
